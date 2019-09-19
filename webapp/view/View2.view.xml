@@ -1,0 +1,13 @@
+<mvc:View xmlns:core="sap.ui.core" xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" controllerName="com.egitim.LocalModel.controller.View2"
+	xmlns:html="http://www.w3.org/1999/xhtml">
+	<App>
+		<pages>
+			<Page title="Title">
+				<content>
+					<Text text="burası ikinci sayfa"></Text>
+					<Text id="idText2" ></Text>
+				</content>
+			</Page>
+		</pages>
+	</App>
+</mvc:View>
